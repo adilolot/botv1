@@ -42,7 +42,7 @@
     "processedHistoryMessages": [
       {
         "key": {
-          "remoteJid": "6285702255815@s.whatsapp.net",
+          "remoteJid": "6285766721325@s.whatsapp.net",
           "fromMe": true,
           "id": "608970218405B7CCCFF41B1FE8F47383"
         },
@@ -50,7 +50,7 @@
       },
       {
         "key": {
-          "remoteJid": "6285702255815@s.whatsapp.net",
+          "remoteJid": "6285766721325@s.whatsapp.net",
           "fromMe": true,
           "id": "2B14717651FA21C61DC9352FC5C8ACF4"
         },
@@ -69,14 +69,14 @@
       "deviceSignature": "Ji+4SFwvyN6egVIWCIcuLt6LJvjDhD9T/qfbjnxTCtnx2VXLbfvxQQD6uoTWUsdPxudtiIaBY3rFIL2np20cAA=="
     },
     "me": {
-      "id": "6285702255815:27@s.whatsapp.net",
+      "id": "6285766721325:27@s.whatsapp.net",
       "name": "AzzBot-MD",
-      "jid": "6285702255815@s.whatsapp.net"
+      "jid": "6285766721325@s.whatsapp.net"
     },
     "signalIdentities": [
       {
         "identifier": {
-          "name": "6285702255815:27@s.whatsapp.net",
+          "name": "6285766721325:27@s.whatsapp.net",
           "deviceId": 0
         },
         "identifierKey": {
@@ -393,7 +393,7 @@
       }
     },
     "sessions": {
-      "6285702255815.0": {
+      "6285766721325.0": {
         "_sessions": {
           "BSfWBeO+mOnvm2qVfJb2hsMkNNpr1UBq9TP3gnyHRXVD": {
             "registrationId": 878193758,
@@ -443,7 +443,7 @@
         },
         "version": "v1"
       },
-      "6281511480762.0": {
+      "6285766721325.0": {
         "_sessions": {
           "BbUOTFaF1E6yWJLLI9JyZKLaD+KiO2lXxp9s/6xd4MEP": {
             "registrationId": 543523737,
